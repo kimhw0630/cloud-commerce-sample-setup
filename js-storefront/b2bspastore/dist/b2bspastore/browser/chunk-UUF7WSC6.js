@@ -1,0 +1,1 @@
+import{k as a}from"./chunk-TVLPBS5U.js";import"./chunk-NAOBBQYD.js";import"./chunk-YO2ZBDBE.js";import"./chunk-MJJIFRPK.js";import"./chunk-5NATMBTE.js";import"./chunk-AISBC7S4.js";export{a as AdministrationModule};
